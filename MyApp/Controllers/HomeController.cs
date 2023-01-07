@@ -78,7 +78,7 @@ public class HomeController : Controller
             var options = new JsonSerializerOptions { IncludeFields = true };
             var usersJson = JsonSerializer.Serialize<List<User>>(list, options);
             string fileName = @"D:\AnagogicAks_Roach\.NET\MyApp\MyApp\Models\storage.json";
-            System.IO.File.AppendAllText(fileName, usersJson);
+            System.IO.File.WriteAllText(fileName, usersJson);
             return Redirect("/Home/Login");
 
         }
