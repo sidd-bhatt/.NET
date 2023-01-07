@@ -29,3 +29,4 @@ D:\AnagogicAks_Roach\.NET\MyApp\MyApp\obj\Debug\net7.0\refint\MyApp.dll
 D:\AnagogicAks_Roach\.NET\MyApp\MyApp\obj\Debug\net7.0\MyApp.pdb
 D:\AnagogicAks_Roach\.NET\MyApp\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
 D:\AnagogicAks_Roach\.NET\MyApp\MyApp\obj\Debug\net7.0\ref\MyApp.dll
+D:\AnagogicAks_Roach\.NET\MyApp\MyApp\bin\Debug\net7.0\Models\storage.json
