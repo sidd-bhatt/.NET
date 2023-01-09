@@ -1,0 +1,15 @@
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\CDAC\.NET\FlowersPoint\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\CDAC\.NET\FlowersPoint\DAL\bin\Debug\net7.0\DAL.dll
+D:\CDAC\.NET\FlowersPoint\DAL\bin\Debug\net7.0\DAL.pdb
+D:\CDAC\.NET\FlowersPoint\DAL\bin\Debug\net7.0\BOL.dll
+D:\CDAC\.NET\FlowersPoint\DAL\bin\Debug\net7.0\BOL.pdb
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.dll
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\DAL.pdb
+D:\CDAC\.NET\FlowersPoint\DAL\obj\Debug\net7.0\ref\DAL.dll
